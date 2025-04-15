@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="images">
+    <file>seemore.png</file>
+    <file>seemoreclicked.png</file>
+    <file>reloadbutton.png</file>
+    <file>0.png</file>
+    <file>afternoon.jpg</file>
+    <file>board0.png</file>
+    <file>board1.png</file>
+    <file>board2.png</file>
+    <file>board3.png</file>
+    <file>board4.png</file>
+    <file>evening.jpg</file>
+    <file>midnight.jpg</file>
+    <file>morning.jpg</file>
+    <file>reloadbuttonclicked.png</file>
+    <file>searchicon.png</file>
+    <file>reloadbuttonclicked.png</file>
+    <file>searchiconclicked.png</file>
+  </qresource>
+</RCC>
